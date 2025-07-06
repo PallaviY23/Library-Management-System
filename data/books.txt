@@ -1,0 +1,10 @@
+title0,author0,publisher0,2000,ISBN0,Available
+title1,author1,publisher1,2001,ISBN1,Available
+title2,author2,publisher2,2002,ISBN2,Available
+title3,author3,publisher3,2003,ISBN3,Available
+title4,author4,publisher4,2004,ISBN4,Available
+title5,author5,publisher5,2005,ISBN5,Available
+title6,author6,publisher6,2006,ISBN6,Available
+title7,author7,publisher7,2007,ISBN7,Available
+title8,author8,publisher8,2008,ISBN8,Available
+title9,author9,publisher9,2009,ISBN9,Available
