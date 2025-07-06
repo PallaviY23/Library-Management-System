@@ -1,9 +1,0 @@
-student1,us1,Student
-student2,us2,Student
-student3,us3,Student
-student4,us4,Student
-student5,us5,Student
-faculty1,uf1,Faculty
-faculty2,uf2,Faculty
-faculty3,uf3,Faculty
-librarian1,ul1,Librarian
